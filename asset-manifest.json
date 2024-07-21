@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Xcrop-website/static/css/main.b4a7542d.css",
-    "main.js": "/Xcrop-website/static/js/main.5a571b07.js",
+    "main.css": "/Xcrop-website/static/css/main.d1dc3519.css",
+    "main.js": "/Xcrop-website/static/js/main.9c1626f0.js",
     "static/js/453.8ab44547.chunk.js": "/Xcrop-website/static/js/453.8ab44547.chunk.js",
     "static/media/logo.jpg": "/Xcrop-website/static/media/logo.978e7d1fc04a8e2d79a8.jpg",
     "index.html": "/Xcrop-website/index.html",
-    "main.b4a7542d.css.map": "/Xcrop-website/static/css/main.b4a7542d.css.map",
-    "main.5a571b07.js.map": "/Xcrop-website/static/js/main.5a571b07.js.map",
+    "main.d1dc3519.css.map": "/Xcrop-website/static/css/main.d1dc3519.css.map",
+    "main.9c1626f0.js.map": "/Xcrop-website/static/js/main.9c1626f0.js.map",
     "453.8ab44547.chunk.js.map": "/Xcrop-website/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4a7542d.css",
-    "static/js/main.5a571b07.js"
+    "static/css/main.d1dc3519.css",
+    "static/js/main.9c1626f0.js"
   ]
 }
