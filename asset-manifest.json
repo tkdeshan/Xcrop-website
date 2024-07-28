@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Xcrop-website/static/css/main.e2643fdc.css",
-    "main.js": "/Xcrop-website/static/js/main.66a2f955.js",
+    "main.css": "/Xcrop-website/static/css/main.9c619d8e.css",
+    "main.js": "/Xcrop-website/static/js/main.26fa9b96.js",
     "static/js/453.d855a71b.chunk.js": "/Xcrop-website/static/js/453.d855a71b.chunk.js",
     "static/media/mobile_app.png": "/Xcrop-website/static/media/mobile_app.428b245892f4e31edde6.png",
     "static/media/graphic.png": "/Xcrop-website/static/media/graphic.75b3ea4665323dafce26.png",
@@ -47,12 +47,12 @@
     "static/media/java.png": "/Xcrop-website/static/media/java.2be0bca1b95cfc0ce63e.png",
     "static/media/AWS.png": "/Xcrop-website/static/media/AWS.fd8ebbb9f7ab046ba029.png",
     "index.html": "/Xcrop-website/index.html",
-    "main.e2643fdc.css.map": "/Xcrop-website/static/css/main.e2643fdc.css.map",
-    "main.66a2f955.js.map": "/Xcrop-website/static/js/main.66a2f955.js.map",
+    "main.9c619d8e.css.map": "/Xcrop-website/static/css/main.9c619d8e.css.map",
+    "main.26fa9b96.js.map": "/Xcrop-website/static/js/main.26fa9b96.js.map",
     "453.d855a71b.chunk.js.map": "/Xcrop-website/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2643fdc.css",
-    "static/js/main.66a2f955.js"
+    "static/css/main.9c619d8e.css",
+    "static/js/main.26fa9b96.js"
   ]
 }
