@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Xcrop-website/static/css/main.80d587c4.css",
-    "main.js": "/Xcrop-website/static/js/main.fb8a6dc1.js",
+    "main.js": "/Xcrop-website/static/js/main.23e4f433.js",
     "static/js/453.d855a71b.chunk.js": "/Xcrop-website/static/js/453.d855a71b.chunk.js",
     "static/media/backend.jpg": "/Xcrop-website/static/media/backend.ed4c5a1992e0c288296f.jpg",
     "static/media/qa.jpg": "/Xcrop-website/static/media/qa.6b95f565647a708eef80.jpg",
@@ -49,11 +49,11 @@
     "static/media/AWS.png": "/Xcrop-website/static/media/AWS.fd8ebbb9f7ab046ba029.png",
     "index.html": "/Xcrop-website/index.html",
     "main.80d587c4.css.map": "/Xcrop-website/static/css/main.80d587c4.css.map",
-    "main.fb8a6dc1.js.map": "/Xcrop-website/static/js/main.fb8a6dc1.js.map",
+    "main.23e4f433.js.map": "/Xcrop-website/static/js/main.23e4f433.js.map",
     "453.d855a71b.chunk.js.map": "/Xcrop-website/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80d587c4.css",
-    "static/js/main.fb8a6dc1.js"
+    "static/js/main.23e4f433.js"
   ]
 }
